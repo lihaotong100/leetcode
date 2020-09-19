@@ -4,6 +4,7 @@
 | ---------- | :-----------:  | :-----------: | :-----------: |
 | [104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)  | [Maximum Depth of Binary Tree](https://github.com/lihaotong100/leetcode/tree/master/104.%20Maximum%20Depth%20of%20Binary%20Tree(Easy)) | Easy | 二叉树，递归|
 | [136](https://leetcode.com/problems/single-number/)  | [Single Number](https://github.com/lihaotong100/leetcode/tree/master/136.Single%20Number) | Easy | 数组，异或|
+| [237](https://leetcode.com/problems/delete-node-in-a-linked-list/)  | [Delete Node in a Linked List](https://github.com/lihaotong100/leetcode/tree/master/136.Single%20Number) | Easy | 单向链表|
 # 2.参考资料
 * [数据结构课程](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher?aff=K7qB)
 * [红宝书视频](https://link.zhihu.com/?target=https%3A//www.youtube.com/watch%3Fv%3D1QZDe28peZk%26list%3DPLRdD1c6QbAqJn0606RlOR6T3yUqFWKwmX)

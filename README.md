@@ -10,7 +10,7 @@
 | [169](https://leetcode.com/problems/majority-element/) | [Majority Element](https://github.com/lihaotong100/leetcode/tree/master/169.%20Majority%20Element) | Easy  | 众数，多数投票算法 |
 | [169](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [ Convert Sorted Array to Binary Search Tree](https://github.com/lihaotong100/leetcode/tree/master/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree) | Easy  | 建立平衡二叉树，分治法 |
 | [283](https://leetcode.com/problems/move-zeroes/) | [Move Zeroes](https://github.com/lihaotong100/leetcode/tree/master/283.%20Move%20Zeroes) | Easy  | 数组操作 |
-| [172](https://leetcode.com/problems/excel-sheet-column-number/) | [Excel Sheet Column Number](https://github.com/lihaotong100/leetcode/tree/master/283.%20Move%20Zeroes) | Easy  | 进制转化 |
+| [172](https://leetcode.com/problems/excel-sheet-column-number/) | [Excel Sheet Column Number](https://github.com/lihaotong100/leetcode/tree/master/171.%20Excel%20Sheet%20Column%20Number) | Easy  | 进制转化 |
 | [217](https://leetcode.com/problems/contains-duplicate/) | [Contains Duplicate](https://github.com/lihaotong100/leetcode/tree/master/283.%20Move%20Zeroes) | Easy  | 寻找重复数字 |
 # 2.参考资料
 * [数据结构课程](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher?aff=K7qB)

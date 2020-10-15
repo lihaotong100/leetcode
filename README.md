@@ -13,7 +13,7 @@
 | [172](https://leetcode.com/problems/excel-sheet-column-number/) | [Excel Sheet Column Number](https://github.com/lihaotong100/leetcode/tree/master/171.%20Excel%20Sheet%20Column%20Number) | Easy  | 进制转化 |
 | [217](https://leetcode.com/problems/contains-duplicate/) | [Contains Duplicate](https://github.com/lihaotong100/leetcode/tree/master/283.%20Move%20Zeroes) | Easy  | 寻找重复数字 |
 | [268](https://leetcode.com/problems/missing-number/) | [Missing Number](https://github.com/lihaotong100/leetcode/tree/master/268.%20Missing%20Number) | Easy  | 异或 |
-
+| [202](https://leetcode.com/problems/happy-number/) | [Happy Number](https://github.com/lihaotong100/leetcode/tree/master/268.%20Missing%20Number) | Easy  | 快慢指针 |
 
 # 2.参考资料
 * [数据结构课程](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher?aff=K7qB)

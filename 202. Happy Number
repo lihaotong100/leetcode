@@ -1,0 +1,54 @@
+Class Solution{
+
+//方法一：龟兔赛跑算法（tortoise and hare algorithm），又叫快慢指针算法。
+public boolean isHappy2(int n) {
+		int slow = n,fast = getNumPow(n);	
+		while(n != 1){
+			int sumSlow = 0,sumFast = 0;
+			sumSlow = getNumPow(slow);
+			slow = sumSlow;
+
+			for(int i = 0;i < 2;i++){
+				sumFast = getNumPow(fast);
+				fast = sumFast;
+			}
+
+
+			if(slow == 1 || fast == 1){
+				break;
+			}
+			if(slow == fast){
+				return false;
+			}
+		}
+		return true;
+	}
+	
+	public int getNumPow(int num){
+		int sum = 0;
+		while(num != 0){
+			sum += (num % 10)*(num % 10) ;
+			num /= 10;
+		}
+		return sum;
+	}
+		
+  //方法二：用set来记录便利过的数
+	public boolean isHappy(int n) {
+		Set<Integer> s = new HashSet<>();
+		while(n != 1){
+			int sum = 0;
+			while(n != 0){
+				sum += (n % 10)*(n % 10) ;
+				n /= 10;
+			}
+			n = sum;
+			int size = s.size();
+			s.add(sum);
+			if(size == s.size()){
+				return false;
+			}
+		}
+		return true;	
+	}
+}

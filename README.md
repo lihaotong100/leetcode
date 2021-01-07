@@ -15,7 +15,13 @@
 | [268](https://leetcode.com/problems/missing-number/) | [Missing Number](https://github.com/lihaotong100/leetcode/tree/master/268.%20Missing%20Number) | Easy  | 异或 |
 | [202](https://leetcode.com/problems/happy-number/) | [Happy Number](https://github.com/lihaotong100/leetcode/tree/master/268.%20Missing%20Number) | Easy  | 快慢指针 |
 | [53](https://leetcode.com/problems/maximum-subarray) | [Maximum Subarray](https://github.com/lihaotong100/leetcode/tree/master/268.%20Missing%20Number) | Easy  | 分治法 |
+| [160](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Intersection of Two Linked Lists | Easy | 简单链表 |
+​	
+
+
+
 # 2.参考资料
+
 * [数据结构课程](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher?aff=K7qB)
 * [红宝书视频](https://link.zhihu.com/?target=https%3A//www.youtube.com/watch%3Fv%3D1QZDe28peZk%26list%3DPLRdD1c6QbAqJn0606RlOR6T3yUqFWKwmX)
 * [红宝书官网](https://link.zhihu.com/?target=https%3A//algs4.cs.princeton.edu/lectures/)

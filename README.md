@@ -16,6 +16,7 @@
 | [202](https://leetcode.com/problems/happy-number/) | [Happy Number](https://github.com/lihaotong100/leetcode/tree/master/268.%20Missing%20Number) | Easy  | 快慢指针 |
 | [53](https://leetcode.com/problems/maximum-subarray) | [Maximum Subarray](https://github.com/lihaotong100/leetcode/tree/master/268.%20Missing%20Number) | Easy  | 分治法 |
 | [160](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Intersection of Two Linked Lists | Easy | 简单链表 |
+| [141](https://leetcode.com/problems/linked-list-cycle/) | Linked List Cycle | Easy | 链表，龟兔赛跑算法 |
 ​	
 
 
@@ -26,4 +27,8 @@
 * [红宝书视频](https://link.zhihu.com/?target=https%3A//www.youtube.com/watch%3Fv%3D1QZDe28peZk%26list%3DPLRdD1c6QbAqJn0606RlOR6T3yUqFWKwmX)
 * [红宝书官网](https://link.zhihu.com/?target=https%3A//algs4.cs.princeton.edu/lectures/)
 * [算法](http://jeffe.cs.illinois.edu/teaching/algorithms/)
+
+# 3.使用语言
+
+`Python` and `Java`
 

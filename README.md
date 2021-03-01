@@ -17,6 +17,7 @@
 | [53](https://leetcode.com/problems/maximum-subarray) | [Maximum Subarray](https://github.com/lihaotong100/leetcode/tree/master/268.%20Missing%20Number) | Easy  | 分治法 |
 | [160](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Intersection of Two Linked Lists | Easy | 简单链表 |
 | [141](https://leetcode.com/problems/linked-list-cycle/) | Linked List Cycle | Easy | 链表，龟兔赛跑算法 |
+| [234](https://https://leetcode.com/problems/palindrome-linked-list/) | Palindrome Linked List | Easy | 链表，回文 |
 ​	
 
 
